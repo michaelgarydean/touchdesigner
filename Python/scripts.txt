@@ -1,0 +1,5 @@
+Get number of primitives (points) of a sop
+len(me.inputs[0].prims)
+
+Reference constant value in Tscript
+`chop("/project1/constant1/v1")`
